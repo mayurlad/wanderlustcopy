@@ -20,33 +20,12 @@ A dynamic web application for managing and exploring travel listings. Users can 
 
 ---  
 
-## Sample Listings  
-
-Here are some of the travel destinations you can explore in the application:  
-
-<table>  
-  <tr>  
-    <td><img src="https://images.unsplash.com/photo-1518684079-3c830dcef090?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZHViYWl8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=60" alt="Desert Oasis in Dubai" width="300" /></td>  
-    <td><img src="https://images.unsplash.com/photo-1586375300773-8384e3e4916f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGxvZGdlfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60" alt="Rustic Log Cabin in Montana" width="300" /></td>  
-  </tr>  
-  <tr>  
-    <td><img src="https://images.unsplash.com/photo-1602343168117-bb8ffe3e2e9f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8dmlsbGF8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=60" alt="Beachfront Villa in Greece" width="300" /></td>  
-    <td><img src="https://images.unsplash.com/photo-1488462237308-ecaa28b729d7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8c2t5JTIwdmFjYXRpb258ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=60" alt="Eco-Friendly Treehouse Retreat" width="300" /></td>  
-  </tr>  
-</table>  
-
----  
 
 ## How to Use  
 1. Add new travel destinations by filling out the form.  
 2. View details of each destination.  
 3. Edit or delete listings as needed.  
-4. Explore stunning travel options.  
-
----  
-
-## License  
-This project is licensed under the [MIT License](LICENSE).  
+4. Explore stunning travel options.   
 
 ---  
 
