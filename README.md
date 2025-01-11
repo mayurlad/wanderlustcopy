@@ -1,4 +1,4 @@
-# Traveller 🌍  
+# Wanderlust 🌍  
 
 A dynamic web application for managing and exploring travel listings. Users can add, view, edit, and delete travel destinations with seamless navigation and an intuitive interface.  
 
